@@ -118,6 +118,9 @@ Once you've collected survey responses, you can:
 3. **Data Export**: Import into Excel, SPSS, or other analysis tools
 4. **Reporting**: Create visualizations and reports from the collected feedback
 
+## Live Demo
+https://word-cloud-richardsawanaka.streamlit.app/
+
 ## 📄 License
 
 This project is open-source and intended for educational and research use.</content>
